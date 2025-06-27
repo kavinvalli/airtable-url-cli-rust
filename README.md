@@ -1,5 +1,7 @@
 # Shortlink
 
+To work with [dotco](https://github.com/someshkar/dotco)
+
 A command-line tool for managing shortlinks using Airtable as a backend. This Rust application allows you to create, retrieve, and manage URL shortlinks through Airtable's API.
 
 ## Features
